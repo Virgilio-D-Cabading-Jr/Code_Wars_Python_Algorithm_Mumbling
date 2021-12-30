@@ -12,8 +12,9 @@ def accum(s):
                 output += ltr.upper();
             else:
                 output += ltr.lower();
-
             # print (ltr.upper())
+        if letterIdx != (len(s)-1) :
+            output += "-"
     return output
 
 print ("abcd:", accum("abcd"));
