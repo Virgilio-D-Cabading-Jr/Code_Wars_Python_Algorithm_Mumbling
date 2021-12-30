@@ -8,7 +8,12 @@ def accum(s):
         for idx in range( letterIdx+1 ) :
             # print ( s[letterIdx] )
             ltr = s[letterIdx]
-            print (ltr.upper())
+            if idx == 0 :
+                output += ltr.upper();
+            else:
+                
+
+            # print (ltr.upper())
     return output
 
 print ("abcd:", accum("abcd"));
