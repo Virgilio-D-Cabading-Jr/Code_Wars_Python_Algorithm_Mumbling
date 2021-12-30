@@ -3,4 +3,7 @@
 #####################################################
 
 def accum(s):
-    # your code
+    for letter in s :
+        print (letter)
+
+accum("abcd")
