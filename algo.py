@@ -16,3 +16,5 @@ def accum(s):
     return output
 
 print ("abcd:", accum("abcd"));
+print ("RqaEzty:", accum("RqaEzty"));
+print ("abcd:", accum("abcd"));
