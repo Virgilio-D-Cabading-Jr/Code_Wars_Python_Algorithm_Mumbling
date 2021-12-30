@@ -20,4 +20,6 @@ print ("RqaEzty:", accum("RqaEzty"));
 print ("cwAt:", accum("cwAt"));
 print ("ZpglnRxqenU:", accum("ZpglnRxqenU"));
 print ("NyffsGeyylB:", accum("NyffsGeyylB"));
+print ("MjtkuBovqrU:", accum("MjtkuBovqrU"));
+print (":", accum(""));
 print (":", accum(""));
