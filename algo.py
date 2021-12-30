@@ -18,3 +18,6 @@ def accum(s):
 print ("abcd:", accum("abcd"));
 print ("RqaEzty:", accum("RqaEzty"));
 print ("cwAt:", accum("cwAt"));
+print ("ZpglnRxqenU:", accum("ZpglnRxqenU"));
+print (":", accum(""));
+print (":", accum(""));
