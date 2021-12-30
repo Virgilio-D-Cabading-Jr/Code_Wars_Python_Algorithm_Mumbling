@@ -11,7 +11,7 @@ def accum(s):
             if idx == 0 :
                 output += ltr.upper();
             else:
-                
+                output += ltr.lower();
 
             # print (ltr.upper())
     return output
