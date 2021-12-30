@@ -22,4 +22,4 @@ print ("ZpglnRxqenU:", accum("ZpglnRxqenU"));
 print ("NyffsGeyylB:", accum("NyffsGeyylB"));
 print ("MjtkuBovqrU:", accum("MjtkuBovqrU"));
 print ("EvidjUnokmM:", accum("EvidjUnokmM"));
-print (":", accum(""));
+print ("HbideVbxncC:", accum("HbideVbxncC"));
