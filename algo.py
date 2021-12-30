@@ -3,7 +3,9 @@
 #####################################################
 
 def accum(s):
+    output = ""
     for letter in s :
         print (letter)
+    return output
 
-accum("abcd")
+print ("abcd:", accum("abcd"));
